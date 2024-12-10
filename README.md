@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 ## 💼 Career
 
-- ![Fans Binder](https://fansbinder.com/) (2023 ..)
-- ![Octopussy]() (2023 ..)
-- ![Mediarithmics](https://www.mediarithmics.io/) (2021 .. 2023)
-- ![CARBON](https://carbon-it.fr/) (2015 .. 2021)
-  - ![MFG Labs](https://www.mfglabs.com/)
-  - ![SACEM](https://www.sacem.fr/)
-  - ![Coliposte](https://www.coliposte.net/default.htm)
-  - ![Canal+](https://www.canalplusgroup.com/fr)
-  - ![Carrefour](https://www.carrefour.fr/)
-  - ![PMU](https://www.pmu.fr/)
+- [Fans Binder](https://fansbinder.com/) (2023 ..)
+- [Octopussy]() (2023 ..)
+- [Mediarithmics](https://www.mediarithmics.io/) (2021 .. 2023)
+- [CARBON](https://carbon-it.fr/) (2015 .. 2021)
+  - [MFG Labs](https://www.mfglabs.com/)
+  - [SACEM](https://www.sacem.fr/)
+  - [Coliposte](https://www.coliposte.net/default.htm)
+  - [Canal+](https://www.canalplusgroup.com/fr)
+  - [Carrefour](https://www.carrefour.fr/)
+  - [PMU](https://www.pmu.fr/)
 
 ## 💻 Skills
 
