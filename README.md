@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 
 ![D](https://img.shields.io/badge/d-b03931.svg?style=for-the-badge&logo=d&logoColor=white)
 
+![Java](https://img.shields.io/badge/java-3a75af.svg?style=for-the-badge&logo=java&logoColor=white)
+
 ## 🗨️ Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelbobillot)
