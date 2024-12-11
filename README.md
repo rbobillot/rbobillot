@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-eed91c.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vue](https://img.shields.io/badge/vue-42b982.svg?style=for-the-badge&logo=vue&logoColor=white)
 ![React](https://img.shields.io/badge/react-57c4db.svg?style=for-the-badge&logo=react&logoColor=white)
-![Bun](https://img.shields.io/badge/bun-f9f1e2.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Bun](https://img.shields.io/badge/bun-f473b6.svg?style=for-the-badge&logo=bun&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-1d63ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-000000.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -58,13 +58,19 @@ Here are some ideas to get you started:
 ### 🔨 Toying with
 
 ![Gleam](https://img.shields.io/badge/gleam-ffaff4.svg?style=for-the-badge&logo=gleam&logoColor=white)
-![Python](https://img.shields.io/badge/python-4988b4.svg?style=for-the-badge&logo=python&logoColor=white)
-![ZIG](https://img.shields.io/badge/zig-f6a41c.svg?style=for-the-badge&logo=zig&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-f85208.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Julia](https://img.shields.io/badge/julia-4063d7.svg?style=for-the-badge&logo=julia&logoColor=white)
-![Haskell](https://img.shields.io/badge/haskell-5e4f86.svg?style=for-the-badge&logo=haskell&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Erlang](https://img.shields.io/badge/erlang-a80532.svg?style=for-the-badge&logo=erlang&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-4988b4.svg?style=for-the-badge&logo=python&logoColor=white)
+
+![ZIG](https://img.shields.io/badge/zig-f6a41c.svg?style=for-the-badge&logo=zig&logoColor=white)
+
+![Rust](https://img.shields.io/badge/rust-f85208.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+![Julia](https://img.shields.io/badge/julia-4063d7.svg?style=for-the-badge&logo=julia&logoColor=white)
+
+![Haskell](https://img.shields.io/badge/haskell-5e4f86.svg?style=for-the-badge&logo=haskell&logoColor=white)
+
 ![D](https://img.shields.io/badge/d-b03931.svg?style=for-the-badge&logo=d&logoColor=white)
 
 ## 🗨️ Contact
