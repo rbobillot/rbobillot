@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 ![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Erlang](https://img.shields.io/badge/erlang-a80532.svg?style=for-the-badge&logo=erlang&logoColor=white)
 
+![Go](https://img.shields.io/badge/go-007d9d.svg?style=for-the-badge&logo=go&logoColor=white)
+
 ![Python](https://img.shields.io/badge/python-4988b4.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ![ZIG](https://img.shields.io/badge/zig-f6a41c.svg?style=for-the-badge&logo=zig&logoColor=white)
