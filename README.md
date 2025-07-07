@@ -81,4 +81,4 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelbobillot)
 [![Email](https://img.shields.io/badge/Email-2650ee?style=for-the-badge&logo=hey&logoColor=FFF)](mailto:raphael.bobillot@gmail.com)
-[![Discord](https://img.shields.io/badge/Mraiih-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/raphaelbobillot)
+[![Discord](https://img.shields.io/badge/Bobi-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/raphaelbobillot)
