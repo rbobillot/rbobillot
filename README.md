@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## 💼 Career
 
+- [Ledger](https://www.ledger.com/) (2025 ..)
 - [Fans Binder](https://fansbinder.com/) (2023 ..)
 - [Octopussy]() (2023 ..)
 - [Mediarithmics](https://www.mediarithmics.io/) (2021 .. 2023)
